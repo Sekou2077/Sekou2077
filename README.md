@@ -37,7 +37,7 @@ I’m particularly interested in how algorithmic design, cybersecurity, machine 
 **DocuMint**  
 - Contributed to the development of a large docstring dataset aimed at improving small language models  
 - Fine-tuned models achieved notable gains in clarity and conciseness (**+22.5%**)  
-- [Read more](#)
+- [Read more](https://arxiv.org/abs/2405.10243)
 
 **Personal Portfolio Website**  
 - The website you’re currently viewing, built as an evolving showcase of my work and interests
