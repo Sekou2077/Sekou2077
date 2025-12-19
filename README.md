@@ -3,7 +3,7 @@
 🎓 Computer Scientist (M.S. in Computer Science)  
 🔐 Interests: Cybersecurity, Algorithms, Machine Learning, Software Development  
 
-This repository serves as my personal portfolio, where I showcase projects and experiments that reflect my technical interests and continuous learning. I enjoy understanding systems deeply, improving existing solutions, and building new ones with clarity and purpose.
+I would like to use this platform to showcase projects and experiments that reflect my technical interests and continuous learning. I enjoy understanding systems deeply, improving existing solutions, and building new ones with clarity and purpose.
 
 ---
 
@@ -40,7 +40,8 @@ I’m particularly interested in how algorithmic design, cybersecurity, machine 
 - [Read more](https://arxiv.org/abs/2405.10243)
 
 **Personal Portfolio Website**  
-- The website you’re currently viewing, built as an evolving showcase of my work and interests
+- Linux terminal themed website containing my portfolio
+- - [Read more]()
 
 **Logic Bomb Reverse Engineering**  
 - Analyzed and defused a malicious logic bomb using `gdb`  
