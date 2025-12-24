@@ -1,7 +1,7 @@
 ## Welcome !
 💻M.S. in Computer Science |  Cybersecurity, Algorithms, Machine Learning,  Software Development
 
-Driven by the idea that the brain is the ultimate computer, I sometimes suffer through obtuse documentation to understand why things work or don’t, constantly learning while experimenting, building, and breaking systems.
+At my core, I see the human brain as the ultimate computer. I sometimes happily suffer through obtuse documentation to understand why things work or don’t, constantly learning while experimenting, building, and breaking systems.
 
 ##  Skills
 
