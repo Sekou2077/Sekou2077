@@ -29,7 +29,7 @@ At my core, I see the human brain as the ultimate computer. I sometimes happily 
 
 **Personal Portfolio Website**  
 - Linux terminal themed website containing my portfolio
-- - [Take a look!(placeholder)]()
+- - [Work in progess!(placeholder)]()
 
 **Logic Bomb Reverse Engineering**  
 - Analyzed and defused a malicious logic bomb using `gdb`  
