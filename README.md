@@ -29,18 +29,17 @@ Driven by the idea that the brain is the ultimate computer, I sometimes suffer t
 
 **Personal Portfolio Website**  
 - Linux terminal themed website containing my portfolio
-- - [Take a look!]()
+- - [Take a look!(placeholder)]()
 
 **Logic Bomb Reverse Engineering**  
 - Analyzed and defused a malicious logic bomb using `gdb`  
 - Traced control and execution flow to identify trigger conditions and neutralize the payload  
-- Completed as part of a graduate-level software security course
+
 
 **TLS Client Authentication & Key Management**  
 - Generated cryptographic key pairs and obtained signed certificates  
 - Used TLS client authentication to securely access a protected server  
 - Gained hands-on experience with practical cryptographic workflows
-- - Completed as part of a graduate-level software security course
 
 
 
