@@ -1,21 +1,9 @@
-## 👋 Hi, I'm Sekou Traore
+## Welcome !
+💻M.S. in Computer Science |  Cybersecurity, Algorithms, Machine Learning,  Software Development
 
-🎓 Computer Scientist (M.S. in Computer Science)  
-🔐 Interests: Cybersecurity, Algorithms, Machine Learning, Software Development  
+Driven by the idea that the brain is the ultimate computer, I sometimes suffer through obtuse documentation to understand why things work or don’t, constantly learning while experimenting, building, and breaking systems.
 
-I would like to use this platform to showcase projects and experiments that reflect my technical interests and continuous learning. I enjoy understanding systems deeply, improving existing solutions, and building new ones with clarity and purpose.
-
----
-
-## 🧠 About Me
-
-Inspired by Kerckhoffs’s principle, I believe strong systems — and strong engineers — rely on sound design rather than obscurity. I’m motivated by the idea that the human brain is the most powerful computer we have, and that thoughtful problem-solving can meaningfully improve the world around us.
-
-I’m particularly interested in how algorithmic design, cybersecurity, machine learning, and software development intersect to solve complex, real-world problems. I actively seek opportunities to grow my skills and apply them in practical, hands-on ways.
-
----
-
-## 🛠️ Skills
+##  Skills
 
 **Programming:**  
 - Python, C++, SQL  
@@ -25,23 +13,23 @@ I’m particularly interested in how algorithmic design, cybersecurity, machine 
 
 **Systems & Security:**  
 - Linux  
-- Familiar with Wireshark, Nmap, Burp Suite, Hashcat  
+-  Wireshark, Nmap, Burp Suite, Hashcat  
 
 **Tooling:**  
 - Git / GitHub  
 
----
 
-## 🚀 Projects
+
+##  Projects
 
 **DocuMint**  
 - Contributed to the development of a large docstring dataset aimed at improving small language models  
 - Fine-tuned models achieved notable gains in clarity and conciseness (**+22.5%**)  
-- [Read more](https://arxiv.org/abs/2405.10243)
+- [r--](https://arxiv.org/abs/2405.10243)
 
 **Personal Portfolio Website**  
 - Linux terminal themed website containing my portfolio
-- - [Read more]()
+- - [Take a look!]()
 
 **Logic Bomb Reverse Engineering**  
 - Analyzed and defused a malicious logic bomb using `gdb`  
@@ -52,10 +40,11 @@ I’m particularly interested in how algorithmic design, cybersecurity, machine 
 - Generated cryptographic key pairs and obtained signed certificates  
 - Used TLS client authentication to securely access a protected server  
 - Gained hands-on experience with practical cryptographic workflows
+- - Completed as part of a graduate-level software security course
 
----
 
-## 📫 Contact
 
-Feel free to explore my repositories or reach out if you’d like to discuss projects, systems, or security-related topics.
+## 🙏🏽 Reach out 
+[LinkedIn](https://www.linkedin.com/in/sekou-traore-7a5971309/) | Email:Sekoutraore750@yaho.com | [Blog](https://www.blogger.com/u/1/blog/posts/2857470913984111818)
+
 
